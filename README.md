@@ -1,142 +1,26 @@
-# Jeremy Denric - Developer Portfolio
+<h1 align="center">Hi 👋, I'm Jeremy</h1>
+<h3 align="center">A passionate frontend developer from the phillipines</h3>
 
-**Live Site:** [jeremydenric.github.io](https://jeremydenric.github.io)
-**GitHub Repo:** [Jeremydenric/Jeremydenric.github.io](https://github.com/Jeremydenric/Jeremydenric.github.io)
+- 🔭 I’m currently working on a astrology/gym app tha, that works more of a encouraging factor to your lifts by generating "lucky" challenges or "lucky" lifts to encourage you before and during your workouts. **AstroLift**
 
----
+- 🌱 I’m currently learning **python, cpp, next.js, cybersecurity, linux**
 
-## About This Project
+- 👯 I’m looking to collaborate on **AstroLift**
 
-Welcome to my personal portfolio website! This is a clean, minimal showcase of my projects and skills as a developer. Built with pure HTML and CSS, it demonstrates my ability to create beautiful, responsive web experiences without relying on frameworks.
+- 👨‍💻 All of my projects are available at [Jeremydenric.github.io](Jeremydenric.github.io)
 
-This site represents my journey as both a developer and a lifelong learner, with a focus on C++, Python, and web development.
+- 📝 I regularly write articles on [gym and working out](gym and working out)
 
----
+- 💬 Ask me about **my app AstroLift**
 
-## Features
+- 📫 How to reach me **j2005dbg@gmail.com**
 
-- Clean, modern design with smooth animations
-- Fully responsive layout
-- Project showcase section with tech stack tags
-- About section highlighting my background and interests
-- Contact links to GitHub and other platforms
-- Hosted on GitHub Pages for fast, free deployment
+- ⚡ Fun fact **I try to keep a engineering mindset**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## Tech Stack
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-| Technology | Purpose |
-|-----------|----------|
-| HTML5 | Structure and content |
-| CSS3 | Styling, animations, and layout |
-| GitHub Pages | Free hosting and deployment |
-
----
-
-## Project Structure
-
-```
-Jeremydenric.github.io/
-├── index.html          # Main homepage
-├── styles.css          # All styles and layout
-├── README.md           # This file
-└── .git/               # Git repository
-```
-
----
-
-## How to Use
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Jeremydenric/Jeremydenric.github.io.git
-   cd Jeremydenric.github.io
-   ```
-
-2. **Open locally:**
-   Simply open `index.html` in your browser to view the site locally.
-
-3. **Customize:**
-   - Edit `index.html` to add your own projects, about info, and contact links
-   - Modify `styles.css` to change colors, fonts, and layout
-   - Update project cards in the Projects section with your actual work
-
----
-
-## Customization Guide
-
-### Adding a New Project
-
-In `index.html`, find the `<section id="projects">` and add a new project card:
-
-```html
-<div class="project-card">
-  <h3>Your Project Name</h3>
-  <p>Description of what the project does and what you learned.</p>
-  <div class="tech-stack">
-    <span class="tech-tag">Python</span>
-    <span class="tech-tag">Flask</span>
-  </div>
-  <a href="https://github.com/yourusername/project" class="project-link">View Project →</a>
-</div>
-```
-
-### Changing Colors
-
-The site uses a dark theme with gold accents. Main colors in `styles.css`:
-- Background: `#0c0c0c` (near black)
-- Text: `#e6e6e6` (soft white)
-- Accent: `#d4af37` (gold)
-- Links: `#5EC4FF` (blue)
-
-### Updating Contact Info
-
-In the contact section of `index.html`, update the links:
-```html
-<a href="https://github.com/yourusername" target="_blank">GitHub</a>
-<a href="mailto:your.email@example.com">Email</a>
-<a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
-```
-
----
-
-## Deployment
-
-This site is automatically deployed via **GitHub Pages**. Any changes pushed to the main branch will be live within a few minutes.
-
-To enable GitHub Pages:
-1. Go to repository Settings
-2. Navigate to Pages section
-3. Select "Deploy from a branch"
-4. Choose `main` branch and `/` (root) folder
-5. Save
-
-Your site will be available at `https://yourusername.github.io`
-
----
-
-## Future Enhancements
-
-- [ ] Add a blog section for technical articles
-- [ ] Implement dark/light theme toggle
-- [ ] Add project filtering by technology
-- [ ] Create individual project detail pages
-- [ ] Add animations on scroll
-
----
-
-## License
-
-Feel free to fork this project and make it your own! No attribution required.
-
----
-
-## Contact
-
-- **GitHub:** [@Jeremydenric](https://github.com/Jeremydenric)
-- **Email:** Update in contact section
-
----
-
-Built with care by Jeremy Denric © 2025
